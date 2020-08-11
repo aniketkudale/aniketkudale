@@ -9,7 +9,7 @@ I'm <b>Aniket Kudale</b>, <b>Fullstack Engineer</b> from <img src="https://image
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563d7c?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-1b72b5?style=flat-square&logo=jQuery&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript / ES6-f0d53a?style=flat-square&logo=JavaScript&logoColor=black&fontColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript / ES6-e0a719?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular / Angular Material-DD0031?style=flat-square&logo=angular&logoColor=white" />  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
