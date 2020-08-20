@@ -2,7 +2,7 @@
 
 I'm <b>Aniket Kudale</b>, <b>Fullstack Engineer</b> from <img src="https://image.flaticon.com/icons/svg/2465/2465327.svg" width="13"/> <b>Pune, India.</b>
 
-<h3>Things I code with</h3>
+<h3>Stack I work with</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2c9ed4?style=flat-square&logo=css3&logoColor=white" />
