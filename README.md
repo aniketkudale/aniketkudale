@@ -30,6 +30,6 @@ Info:
 - 🌱 I’m currently learning <b>React Native</b>
 - 💬 Ask me about <b>Web Development</b>
 - 📫 How to reach me: <b>[Twitter](https://twitter.com/Aniket_Geek), [LinkedIn](https://www.linkedin.com/in/aniket-kudale)</b>
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend 10+ hours daily on computer building stuff
 
