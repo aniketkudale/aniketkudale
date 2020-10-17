@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, nice to see you!</h1>
 
 I am <b>Aniket Kudale</b>, <b>FullStack Engineer</b> from <img src="https://image.flaticon.com/icons/svg/2465/2465327.svg" width="13"/> <b>Pune, India.</b>
 
