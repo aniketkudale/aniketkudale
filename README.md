@@ -27,7 +27,7 @@ I am <b>Aniket Kudale</b>, <b>FullStack Engineer</b> from <img src="https://imag
 Info:
 
 - 🔭 I’m currently working on <b>BookMyTab</b>
-- 🌱 I’m currently learning <b>React Native</b>
+- 🌱 I’m currently learning about <b>Autonomous Vehicles</b>
 - 💬 Ask me about <b>Web Development</b>
 - 📫 How to reach me: <b>[Twitter](https://twitter.com/Aniket_Geek), [LinkedIn](https://www.linkedin.com/in/aniket-kudale)</b>
 - 😄 Pronouns: He/Him
