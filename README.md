@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, nice to see you!</h1>
 
-I am <b>Aniket Kudale</b>, <b>FullStack Engineer</b> from <img src="https://image.flaticon.com/icons/svg/2465/2465327.svg" width="13"/> <b>Pune, India.</b>
+I am <b>Aniket Kudale</b>, <b>Full Stack Engineer</b> from <img src="https://image.flaticon.com/icons/svg/2465/2465327.svg" width="13"/> <b>Pune, India.</b>
 
 <h3>Stack I work with</h3>
 <p>
@@ -18,10 +18,13 @@ I am <b>Aniket Kudale</b>, <b>FullStack Engineer</b> from <img src="https://imag
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-0497de?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="heroku" src="https://img.shields.io/badge/-Heroku-43853d?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="gulp" src="https://img.shields.io/badge/-Gulp-DD0031?style=flat-square&logo=gulp&logoColor=white" />  
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-CB3837?style=flat-square&logo=docker&logoColor=white" />
+  
 </p>
 
 Info:
