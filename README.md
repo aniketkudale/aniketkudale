@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, nice to see you!</h1>
 
-I am <b>Aniket Kudale</b>, <b>Full Stack Engineer</b> from <img src="https://image.flaticon.com/icons/svg/2465/2465327.svg" width="13"/> <b>Pune, India.</b> ![img](https://iplogger.org/1RXUd7.png)
-
+I am <b>Aniket Kudale</b>, <b>Full Stack Engineer</b> from <b>Pune, India.</b>
 <h3>Stack I work with</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
