@@ -16,6 +16,7 @@ I am <b>Aniket Kudale</b>, <b>Full Stack Engineer</b> from <b>Pune, India.</b>
   <img alt="ionic" src="https://img.shields.io/badge/-Ionic-4586f8?style=flat-square&logo=ionic&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-0497de?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-0497de?style=flat-square&logo=Java&logoColor=blue" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="heroku" src="https://img.shields.io/badge/-Heroku-43853d?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="gulp" src="https://img.shields.io/badge/-Gulp-DD0031?style=flat-square&logo=gulp&logoColor=white" />  
