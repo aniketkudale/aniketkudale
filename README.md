@@ -34,5 +34,5 @@ Info:
 -    Ask me about <b>Web Development</b>
 - 📫 How to reach me: <b>[Twitter](https://twitter.com/Aniket_Geek), [LinkedIn](https://www.linkedin.com/in/aniket-kudale)</b>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I spend 10+ hours daily on computer building cool stuff
+- ⚡ Fun fact: I spend 10+ hours daily on computer building cool awesome stuff
 
