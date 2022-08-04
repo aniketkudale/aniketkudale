@@ -31,7 +31,7 @@ Info:
 
 - 🔭 I’m currently working on <b>SaveMyTab</b>
 - 🌱 I’m currently learning about <b>Autonomous Vehicles</b>
--    Ask me about <b>Web Development</b>
+- 🖥 Ask me about <b>Web Development</b>
 - 📫 How to reach me: <b>[Twitter](https://twitter.com/Aniket_Geek), [LinkedIn](https://www.linkedin.com/in/aniket-kudale)</b>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend 10+ hours daily on computer building cool awesome stuff
