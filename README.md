@@ -29,7 +29,7 @@ I am <b>Aniket Kudale</b>, <b>Senior Full Stack Engineer</b> from <b>Pune, India
 
 Info:
 
-- 🔭 I’m currently working on <b>SaveMyTab and AWS</b>
+- 🔭 I’m currently working on <b>Honey Clone and AWS</b>
 - 🌱 I’m currently learning about <b>Autonomous Vehicles</b>
 - 🖥 Ask me about <b>Web Development</b>
 - 📫 How to reach me: <b>[Twitter](https://twitter.com/Aniket_Geek), [LinkedIn](https://www.linkedin.com/in/aniket-kudale)</b>
